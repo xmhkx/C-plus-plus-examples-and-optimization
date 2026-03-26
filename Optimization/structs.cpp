@@ -10,7 +10,7 @@ struct DataPoint {
 
 // this struct will be 24 bytes due to padding, while DataPoint is 16 bytes
 struct BadDataPoint {
-    int y;    // 4 bytes
+    int y;    // 4 bytes + 4 bytes padding
     double x; // 8 bytes
     int z;    // 4 bytes
 };
