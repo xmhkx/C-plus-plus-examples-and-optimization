@@ -11,6 +11,10 @@
 
 int main() {
     // Declare and initialize variables
+
+    // formaula for declaring a variable is
+    // type variableName = value;
+
     int age = 25; // size: 4 bytes
     double height = 1.75; // size: 8 bytes
     float weight = 70.5f; // size: 4 bytes
