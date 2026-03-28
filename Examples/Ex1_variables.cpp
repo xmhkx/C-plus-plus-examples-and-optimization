@@ -12,7 +12,7 @@
 int main() {
     // Declare and initialize variables
 
-    // formaula for declaring a variable is
+    // formaula for declaring a variable is:
     // type variableName = value;
 
     int age = 25; // size: 4 bytes
