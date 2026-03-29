@@ -1,8 +1,8 @@
 #include <iostream>
 
 /*
-this is example 4 of C :)
-this is a simple example/intro of operators in C
+this is example 4 of C++ :)
+this is a simple example/intro of operators in C++
 what is covered in this example:
 1. arithmetic operators
 2. assignment operators
